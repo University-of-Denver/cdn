@@ -8628,7 +8628,8 @@ h3, h5 {
 a {
   color: #375060;
   text-decoration: underline;
-  transition: all .25s ease; }
+  transition: all .25s ease;
+  font-weight: 500; }
   a:hover, a:focus {
     color: #375060;
     text-decoration: none;
