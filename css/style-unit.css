@@ -22819,6 +22819,7 @@ body #main-content .stories-module, body.du-home #main-content .stories-module {
         display: block;
         width: 100%;
         font-size: 1.7rem;
+        font-weight: 400;
         color: #353535;
         padding: 1.5rem 1.2rem 1.8rem 2.4rem;
         position: relative;
