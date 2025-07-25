@@ -23519,8 +23519,8 @@ div.testimonial-blockquote .text-wrapper {
     .three-col-facts > .three-col-facts__item p {
       color: #375060;
       font-weight: 300;
-      font-size: 4.3rem;
-      line-height: 5.9rem;
+      font-size: 2.7rem;
+      line-height: 1.25;
       text-align: center; }
       @media print, screen and (min-width: 64em) {
         .three-col-facts > .three-col-facts__item p {
@@ -23531,21 +23531,21 @@ div.testimonial-blockquote .text-wrapper {
         .three-col-facts > .three-col-facts__item p {
           max-width: 22.3rem;
           margin: 0 auto 6.0rem;
-          font-size: 3.2rem;
-          line-height: 4.4rem; } }
+          font-size: 2.2rem;
+          line-height: 1.25; } }
       .three-col-facts > .three-col-facts__item p,
       .du-home #main-content .three-col-facts > .three-col-facts__item p {
         font-family: neue-haas-unica, sans-serif; }
       .three-col-facts > .three-col-facts__item p strong {
-        font-size: 9.5rem;
-        line-height: 9.5rem;
+        font-size: 7rem;
+        line-height: 1.125;
         color: #375060;
         font-weight: bold;
         display: block; }
         @media print, screen and (max-width: 74.99875em) {
           .three-col-facts > .three-col-facts__item p strong {
-            font-size: 7.1rem;
-            line-height: 7.1rem; } }
+            font-size: 6.5rem;
+            line-height: 1.125; } }
         .three-col-facts > .three-col-facts__item p strong,
         .du-home #main-content .three-col-facts > .three-col-facts__item p strong {
           font-family: neue-haas-unica, sans-serif; }
