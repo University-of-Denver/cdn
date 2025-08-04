@@ -18261,6 +18261,16 @@ form input[type="email"] {
 form .action.form_action {
   margin-top: 1.5rem; }
 
+.form_action_submit .form_button_submit {
+  background-color: #BA0C2F;
+  color: #fff;
+  transition: all .25s ease; }
+
+.form_action_submit .form_button_submit:hover {
+  background-color: #54565B;
+  color: #fff;
+  transition: all .25s ease; }
+
 form .form_question.form_checkbox {
   margin-top: 1.0rem; }
 
