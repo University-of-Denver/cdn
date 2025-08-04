@@ -18295,6 +18295,15 @@ form input[type="email"] {
 form .action.form_action {
   margin-top: 1.5rem; }
 
+form .form_action_submit button.form_button_submit {
+  background-color: #BA0C2F!important;
+  color: #fff!important;
+  transition: all .25s ease!important; }
+
+form .form_action_submit button.form_button_submit:hover {
+  background-color: #54565B!important;
+  transition: all .25s ease!important; }
+
 form .form_question.form_checkbox {
   margin-top: 1.0rem; }
 
