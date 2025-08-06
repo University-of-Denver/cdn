@@ -13940,6 +13940,10 @@ body:not(.unit-site).du-home .colorado-womens-college header {
       background-color: white;
       color: #525252; }
 
+.kennedy-mountain-campus h2.btm-divider.text-center {
+  font-size: 6.4rem !important;
+  white-space: nowrap; }
+
 .paragraph--type--counselor-and-staff-directory {
   padding-bottom: 10rem; }
 
