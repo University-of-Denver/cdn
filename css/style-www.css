@@ -12233,6 +12233,30 @@ blockquote p {
 .bg-img-btn {
   position: relative;
   display: block; }
+
+#audience-menu .bg-img-btn .content {
+  background-color: rgba(0, 0, 0, 0.5)!important; }
+
+/* Hover and focus state */
+#audience-menu .bg-img-btn:hover .content,
+#audience-menu .bg-img-btn:focus .content {
+  background-color: rgba(0, 0, 0, 0.75) !important; }
+ 
+#audience-menu .btn.btn--dark-red,
+#audience-menu button.default.btn--dark-red,
+#audience-menu a.btn.btn--dark-red {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white; }
+ 
+#audience-menu .btn.btn--dark-red:hover,
+#audience-menu .btn.btn--dark-red:focus,
+#audience-menu button.default.btn--dark-red:hover,
+#audience-menu button.default.btn--dark-red:focus,
+#audience-menu a.btn.btn--dark-red:hover,
+#audience-menu a.btn.btn--dark-red:focus {
+  background-color: rgba(0, 0, 0, 0.75);
+  text-decoration: underline; }
+
 .bg-img-btn > img {
   width: 100%; }
   @media print, screen and (max-width: 47.99875em) {
